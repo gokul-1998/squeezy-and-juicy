@@ -1,0 +1,26 @@
+- what is swiper.js ?
+    - Swiper is a modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity.
+    - Swiper is not compatible with all platforms, eg. it is not compatible with all versions of IE, or IOs 7 and below.
+    - Swiper is also not compatible with all versions of Android, or Windows Phone 7 and below.
+- what is font awesome ?
+    - Font Awesome is a font and icon toolkit based on CSS and LESS. It was made by Dave Gandy for use with Bootstrap, and later was incorporated into the BootstrapCDN.
+    - Font Awesome has a 5.3.1 version, and it is free to use.
+    - LESS is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themeable and extendable.
+    - BootstrapCDN is a public content delivery network. It is a way to deliver content to end users without having to host it yourself.
+    - to know more about LESS, visit: http://lesscss.org/
+- what is tween max?
+    - TweenMax is a part of the GreenSock Animation Platform (GSAP), which is a suite of tools for scripted animation.
+    - TweenMax is a part of the GSAP, and it is a JavaScript library that allows you to create complex animations with a simple syntax.
+    - GSAP is a suite of tools for scripted animation, and it is a JavaScript library that allows you to create complex animations with a simple syntax.
+    - to know more about GSAP, visit: https://greensock.com/gsap
+    - full form  of GSAP is GreenSock Animation Platform
+- what does vh in css mean ?
+    - vh is a CSS unit that represents the viewport height. It is a percentage of the viewport height.
+    - The viewport is the area of the browser that is visible to the user. It is the area that is visible when the user scrolls the page.
+    - The viewport height is the height of the viewport. It is the height of the area of the browser that is visible to the user.
+    - The vh unit is a percentage of the viewport height. It is a unit that represents the height of the viewport.
+- what does vw in css mean ?
+    - vw is a CSS unit that represents the viewport width. It is a percentage of the viewport width.
+    - The viewport is the area of the browser that is visible to the user. It is the area that is visible when the user scrolls the page.
+    - The viewport width is the width of the viewport. It is the width of the area of the browser that is visible to the user.
+    - The vw unit is a percentage of the viewport width. It is a unit that represents the width of the viewport.

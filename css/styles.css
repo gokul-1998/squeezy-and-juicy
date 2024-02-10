@@ -143,6 +143,12 @@ ul {
 
 @keyframes float{
     0%{
-        transform: translatey(-50%, -46%);
+        transform: translate(-50%, -46%);
+    }
+    50%{
+        transform: translate(-50%, -54%);
+    }
+    100%{
+        transform: translate(-50%, -46%);
     }
 }

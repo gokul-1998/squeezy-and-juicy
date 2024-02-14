@@ -1,6 +1,6 @@
 /* ctrl+shift+p to open command pallet */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins:ital,wght@0,100;0,200;1,100;1,200&family=Roboto:ital,wght@0,300;1,400&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 
 
 *{
@@ -152,3 +152,31 @@ ul {
       transform: translate(-50%, -46%);
     }
   }
+
+.arrows .prev{ 
+  position: absolute;
+  top: 50%;
+  left: 100px;
+
+}
+
+.arrows .next{ 
+  position: absolute;
+  top: 50%;
+  right: 100px;
+
+}
+
+.arrows button{
+  border :1px solid #999;
+  background: transparent;
+  padding:  20px;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrows button:hover{
+  background: #000;
+  color: #fff;
+}

@@ -128,27 +128,27 @@ ul {
     color: #AECD31;
   }
 
-  .juice{
-    position: relative;
-    top : 50%;
+  .juice {
+    position: absolute;
+    top: 50%;
     left: 50%;
     z-index: 1;
-    transform: translate(-50%, -50%);
+
   }
-
-    .juice img{
-        animation: float 4s ease-in-out infinite;
-        max-height: 800px;
-    }
-
-@keyframes float{
+  
+  .juice img{
+    animation: float 4s ease-in-out infinite;
+    max-height: 800px;
+  }
+  
+  @keyframes float{
     0%{
-        transform: translate(-50%, -46%);
+      transform: translate(-50%, -46%);
     }
     50%{
-        transform: translate(-50%, -54%);
+      transform: translate(-50%, -54%);
     }
     100%{
-        transform: translate(-50%, -46%);
+      transform: translate(-50%, -46%);
     }
-}
+  }
